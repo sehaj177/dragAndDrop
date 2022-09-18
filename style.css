@@ -1,0 +1,38 @@
+body{
+    background: purple;
+}
+
+.imgBox{
+    background-image:url("img/image2.jpg"); 
+    position: relative;
+    top: 1px;
+    left: 2px;
+    height: 145px;
+    width: 145 px;
+    cursor: pointer;
+
+}
+.whiteBox{
+    display: inline-block;
+    height: 146px;
+    width: 152px;
+    margin: 10px;
+    background-color: white;
+    border: 5px black solid; 
+}
+
+.hold{
+    border: solid red 4px;
+}
+.dashed{
+    background: pink;
+    border-style: dashed;
+}
+.hide{
+    display: none;
+}
+
+
+
+
+
